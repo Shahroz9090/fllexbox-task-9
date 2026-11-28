@@ -96,26 +96,9 @@ body{
     line-height: 58px;
     margin-right: 22px;
     text-decoration: underline;
-    color: #002f34;
+    color: #001aff;
     font-size: 15px;
     font-weight: bold;
-}
-
-.sell{
-    display: inline-block;
-    vertical-align: top;
-    line-height: normal;
-    margin-top: 8px;
-    padding: 9px 26px;
-    border: 4px solid transparent;
-    border-radius: 50px;
-    text-decoration: none;
-    color: #002f34;
-    font-size: 13px;
-    font-weight: bold;
-    background:
-        linear-gradient(white, white) padding-box,
-        linear-gradient(45deg, #23e5db, #ffce32, #3a77ff) border-box;
 }
 
 .bottom{
